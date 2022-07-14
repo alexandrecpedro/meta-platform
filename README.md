@@ -107,7 +107,7 @@ The following tools were used in building the project:<br><br>
         <li>Create a new React project: yarn create vite frontend --template react-ts</li>
         <li>Static layout</li>
         <li>React components</li>
-        <li>DatePicker</li>
+        <li>DatePicker: yarn add react-datepicker@4.8.0 @types/react-datepicker@4.4.2</li>
         <li>React Hook useState</li>
       </ul>
     <br>
