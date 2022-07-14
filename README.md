@@ -14,7 +14,7 @@
 <br>
 
 |                                                                           |                                                                      |                                                                         | 
-|:------------------------------------------------------------------------------:|:--------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|
+|:------------------------------------------------------------------------------:|:--------------------------------------------------------------------:|
 | <img width="1604" alt="Platform - Mobile" src="./frontend/src/assets/project/screens/screen1.png">        | <img width="1200" alt="Platform - Desktop (small and medium)" src="./frontend/src/assets/project/screens/screen2.png"> | <img width="1604" alt="Platform - Desktop (large)" src="./frontend/src/assets/project/screens/screen3.png"> |
 <br>
 
