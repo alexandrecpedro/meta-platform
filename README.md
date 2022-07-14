@@ -15,9 +15,11 @@
 
 | | |
 |:------------------------------------------------------------------------------:|:--------------------------------------------------------------------:|
-| <img width="1200" alt="Platform - Mobile" src="./frontend/src/assets/project/screens/screen1.png">| <img width="1604" alt="Platform - Desktop (small and medium)" src="./frontend/src/assets/project/screens/screen2.png"> | <br>
-|<img width="1604" alt="Platform - Desktop (large)" src="./frontend/src/assets/project/screens/screen3.png"> |
+| <img width="800" alt="Platform - Mobile" src="./frontend/src/assets/project/screens/screen1.png">| <img width="1804" alt="Platform - Desktop (small and medium)" src="./frontend/src/assets/project/screens/screen2.png"> |
 <br>
+<div align = 'center'>
+    <img width="1604" alt="Platform - Desktop (large)" src="./frontend/src/assets/project/screens/screen3.png">
+</div>
 
 <p></p>
 
