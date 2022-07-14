@@ -67,7 +67,7 @@ The following tools were used in building the project:<br><br>
   <h3>Backend | API</h3>
   <img height =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img height =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  <img height =' 120px ' src="./frontend/src/assets/project/logo/postman_logo.svg"/>
+  <img height =' 100px ' src="./frontend/src/assets/project/logo/postman_logo.svg"/>
   <br>
   <h3>Database</h3>
   <img height =' 100px ' src="https://www.h2database.com/html/images/h2-logo-2.png"/>
