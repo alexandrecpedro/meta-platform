@@ -4,7 +4,7 @@
 <br>
 
 <div align = 'center' justify-content = 'space-around' >
-   <img height=' 80px ' src= 'https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png' alt = 'Spring React Week' >
+   <img height=' 50px ' src= 'https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png' alt = 'Spring React Week' >
 </div>
 <br>
 
