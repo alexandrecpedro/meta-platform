@@ -71,7 +71,7 @@ The following tools were used in building the project:<br><br>
   <img height =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
   <br>
   <h3>Database</h3>
-  <img height =' 100px ' src="./src/assets/project/logo/graphcms_logo.png"/>
+  <img height =' 100px ' src="https://www.h2database.com/html/images/h2-logo-2.png"/>
   <br>
   <h3>IDE</h3>
   <img height =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
