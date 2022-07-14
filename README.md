@@ -57,9 +57,7 @@ The following tools were used in building the project:<br><br>
 |            Java Framework (Back end)          |       SPRING BOOT      |            https://spring.io/projects/spring-boot                 |
 | Promise based HTTP client - browser & Node.js |          AXIOS         |            https://axios-http.com/                                 |
 |                 Database                      |           SQL          |            https://graphcms.com/                                 |
-|               Java SQL Database               |       H2 DATABASE      |            https://www.h2database.com/html/main.html        |
-|  Utility-first CSS Framework                  |      TAILWIND CSS      |            https://tailwindcss.com/                                 | 
-|  Tool for transforming CSS with JavaScript    |         POST CSS       |            https://postcss.org/                                 | 
+|               Java SQL Database               |       H2 DATABASE      |            https://www.h2database.com/html/main.html        | 
 |        Tool to build frontend faster          |         VITE.JS        |            https://vitejs.dev/                                 |
 |   API platform for building and using APIs    |         POSTMAN        |            https://www.postman.com/                                 |
 |              Deploy Project                   |       HEROKU CLI       |            https://www.heroku.com/                                 |
@@ -69,6 +67,7 @@ The following tools were used in building the project:<br><br>
   <h3>Backend | API</h3>
   <img height =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img height =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img height =' 100px ' src="./frontend/src/assets/project/logo/postman_logo.svg"/>
   <br>
   <h3>Database</h3>
   <img height =' 100px ' src="https://www.h2database.com/html/images/h2-logo-2.png"/>
