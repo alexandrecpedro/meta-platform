@@ -87,6 +87,7 @@ The following tools were used in building the project:<br><br>
   <img height =' 100px ' src="./frontend/src/assets/project/logo/vite_logo.svg"/>
   <br>
   <h3>Deploy</h3>
+  <img width =' 100px ' src="./frontend/src/assets/project/logo/netlify_logo.svg" />
   <img width =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
   <br>
 </div>
