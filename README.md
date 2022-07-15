@@ -194,9 +194,10 @@ The following tools were used in building the project:<br><br>
     <li>Part 4 - Integration and Deployment
       <ul>
         <li>Integrate Front end and Back end</li>
-        <li>Requests with axios</li>
+        <li>Requests with axios: yarn add axios@0.27.2</li>
         <li>React Hook useEffect</li>
         <li>Query parameters</li>
+        <li>Toast message for confirmation: yarn add react-toastify@9.0.5</li>
         <li>Cloud deployment</li>
       </ul> 
     </li> 
