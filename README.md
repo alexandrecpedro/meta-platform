@@ -27,7 +27,7 @@
  <a href="#theproject">The Project</a> •
  <a href="#target">Target</a> •
  <a href="#technologies">Technologies</a> •
- <a href="#route">Route</a> •
+ <a href="#route">Route</a>
 </p>
 <br>
 
@@ -38,7 +38,7 @@
 
 <div id="target">
 <h2> 💡 Target </h2>
-Development of a platform for 
+Development of a platform for sales management, send SMS messages - Meta Platform
 </div>
 <br>
 
