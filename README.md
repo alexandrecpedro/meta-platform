@@ -128,9 +128,16 @@ The following tools were used in building the project:<br><br>
             </plugin>
         </li>
         <li>Update project: Project (right button) > Maven > Update Project (force update)</li>
-        <li>Modeling: entities and relationships</li>
-        <li>Database: creation and migrations</li>
-        <li>Database seed</li>
+        <li>Security settings for Cross-Origin Resource Sharing (CORS) and activation (initaially disabled by default)</li>
+        <li>Database
+            <ul>
+                <li>Modeling: entities and relationships</li>
+                <li>Create Sale entity</li>
+                <li>Map relational-object (JPA)</li>
+                <li>Set conection data with H2 database</li>
+                <li>Seed at database</li>
+            </ul>            
+        </li>
         <li>Data listing</li>
         <li>REST API</li>
         <li>SMS integration</li>
