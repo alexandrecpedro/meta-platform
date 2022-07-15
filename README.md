@@ -198,7 +198,24 @@ The following tools were used in building the project:<br><br>
         <li>React Hook useEffect</li>
         <li>Query parameters</li>
         <li>Toast message for confirmation: yarn add react-toastify@9.0.5</li>
-        <li>Cloud deployment</li>
+        <li>Cloud deployment - Netlify
+            <ul>
+                <li>Basic deploy
+                    <ol>
+                        <li>Base directory: frontend</li>
+                        <li>Build command: yarn build</li>
+                        <li>Publish directory: frontend/dist</li>
+                        <li>Environmental variable: VITE_BACKEND_URL</li>
+                    </ol>
+                </li>
+                <li>Aditional settings
+                    <ol>
+                        <li>Site settings -> Domain Management</li>
+                        <li>Deploys -> Trigger deploy</li>
+                    </ol>
+                </li>
+            </ul>
+        </li>
       </ul> 
     </li> 
 </ol>
