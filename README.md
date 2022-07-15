@@ -168,6 +168,26 @@ The following tools were used in building the project:<br><br>
                 </li>
             </ul>
         </li>
+        <li>Heroku implementation
+            <ul>
+                <li>Create app</li>
+                <li>Set environmental variables
+                    <ul>
+                        <li>TWILIO_SID</li>
+                        <li>TWILIO_KEY</li>
+                        <li>TWILIO_PHONE_FROM</li>
+                        <li>TWILIO_PHONE_TO</li>
+                    </ul>
+                </li>
+                <li>Keyboard:<br>
+                    heroku -v<br>
+                    heroku login<br>
+                    heroku git:remote -a "app-name"<br>
+                    git remote -v<br>
+                    git subtree push --prefix backend heroku main<br>
+                </li>
+            </ul>
+        </li>
       </ul>
     </li>
     <br>
