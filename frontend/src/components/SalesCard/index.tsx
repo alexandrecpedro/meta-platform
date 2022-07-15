@@ -41,9 +41,9 @@ export default function SalesCard() {
                         <tr>
                             <th className="show992">ID</th>
                             <th className="show576">Date</th>
-                            <th>Seller</th>
-                            <th className="show992">Visits</th>
-                            <th className="show992">Sales</th>
+                            <th>Seller Name</th>
+                            <th className="show992">Visited</th>
+                            <th className="show992">Deals</th>
                             <th>Total</th>
                             <th>Notify</th>
                         </tr>
