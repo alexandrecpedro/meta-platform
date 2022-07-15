@@ -172,12 +172,12 @@ The following tools were used in building the project:<br><br>
             <ul>
                 <li>Create app</li>
                 <li>Set environmental variables
-                    <ul>
+                    <ol>
                         <li>TWILIO_SID</li>
                         <li>TWILIO_KEY</li>
                         <li>TWILIO_PHONE_FROM</li>
                         <li>TWILIO_PHONE_TO</li>
-                    </ul>
+                    </ol>
                 </li>
                 <li>Keyboard:<br>
                     heroku -v<br>
