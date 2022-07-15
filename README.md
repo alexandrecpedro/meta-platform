@@ -57,7 +57,8 @@ The following tools were used in building the project:<br><br>
 |            Java Framework (Back end)          |       SPRING BOOT      |            https://spring.io/projects/spring-boot                 |
 | Promise based HTTP client - browser & Node.js |          AXIOS         |            https://axios-http.com/                                 |
 |                 Database                      |           SQL          |            https://graphcms.com/                                 |
-|               Java SQL Database               |       H2 DATABASE      |            https://www.h2database.com/html/main.html        | 
+|        In-memory (Java SQL) Database          |       H2 DATABASE      |            https://www.h2database.com/html/main.html        | 
+|               Communication API               |         TWILIO         |            https://www.twilio.com/                                 | 
 |        Tool to build frontend faster          |         VITE.JS        |            https://vitejs.dev/                                 |
 |   API platform for building and using APIs    |         POSTMAN        |            https://www.postman.com/                                 |
 |              Deploy Project                   |       HEROKU CLI       |            https://www.heroku.com/                                 |
@@ -68,6 +69,7 @@ The following tools were used in building the project:<br><br>
   <img height =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img height =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
   <img height =' 100px ' src="./frontend/src/assets/project/logo/postman_logo.svg"/>
+  <img height =' 100px ' src="./frontend/src/assets/project/logo/twilio_logo.svg"/>
   <br>
   <h3>Database</h3>
   <img height =' 100px ' src="https://www.h2database.com/html/images/h2-logo-2.png"/>
@@ -151,7 +153,19 @@ The following tools were used in building the project:<br><br>
         <li>Data listing</li>
         <li>SMS integration
             <ul>
-                <li>Twilio - Maven Dependencies</li>
+                <li>Twilio - Maven Dependencies<br>
+                    <dependency>
+                        <groupId>com.twilio.sdk</groupId>
+                        <artifactId>twilio</artifactId>
+                        <version>8.31.1</version>
+                    </dependency>
+                </li>
+                <li>Twilio - Environmental variables<br>
+                    twilio.sid=${TWILIO_SID}<br>
+                    twilio.key=${TWILIO_KEY}<br>
+                    twilio.phone.from=${TWILIO_PHONE_FROM}<br>
+                    twilio.phone.to=${TWILIO_PHONE_TO}<br>
+                </li>
             </ul>
         </li>
       </ul>
