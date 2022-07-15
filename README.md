@@ -113,11 +113,13 @@ The following tools were used in building the project:<br><br>
     <br>
     <li>Part 3 - Back End</li>
       <ul>  
-        <li>Create a new Spring Boot project at Spring Initializr:<br>
-            * Spring Web<br>
-            * Spring Data JPA<br>
-            * H2 Database<br>
-            * Spring Security<br>
+        <li>Create a new Spring Boot project at Spring Initializr:
+            <ul>
+                <li>Spring Web</li>
+                <li>Spring Data JPA</li>
+                <li>H2 Database</li>
+                <li>Spring Security</li>
+            </ul>
         </li>
         <li>Open project at Spring Toll Suite 4 (STS)</li>
         <li>Modify pom.xml:<br>
@@ -138,9 +140,20 @@ The following tools were used in building the project:<br><br>
                 <li>Seed at database</li>
             </ul>            
         </li>
+        <li>REST API
+            <ul>
+                <li>Create repository</li>
+                <li>Create service</li>
+                <li>Create controller</li>
+                <li>API REST first test</li>
+            </ul>
+        </li>
         <li>Data listing</li>
-        <li>REST API</li>
-        <li>SMS integration</li>
+        <li>SMS integration
+            <ul>
+                <li>Twilio - Maven Dependencies</li>
+            </ul>
+        </li>
       </ul>
     </li>
     <br>
